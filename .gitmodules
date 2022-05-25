@@ -1,0 +1,6 @@
+[submodule "vulkan-thingy/src/vendor/spdlog"]
+	path = vulkan-thingy/src/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "vulkan-thingy/src/vendor/glfw"]
+	path = vulkan-thingy/src/vendor/glfw
+	url = https://github.com/glfw/glfw.git
